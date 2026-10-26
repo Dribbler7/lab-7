@@ -1,0 +1,4 @@
+<resources>
+    <!-- NoActionBar: we supply our own MaterialToolbar (Part A) -->
+    <style name="Theme.TenantManagementSystem" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
